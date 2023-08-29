@@ -4,7 +4,7 @@ repository for the DLthon project.
 ## Objective
 > 성능 향상 과정 과 test&train 결과에서 각 모델의 특징을 찾아보고,<br> 향후 해당 모델들이 application과정에서 얻을 수 있는 선호척도에 대해 알아보자
 
-## Project step
+## Project steps
 1. Organize Data and Data Augmentation
    - Random Crop (무작위 자르기): 이미지의 일부를 무작위로 잘라내어 사용<br>
      이를 통해 모델이 객체의 위치 변화에 덜 민감하게 됨

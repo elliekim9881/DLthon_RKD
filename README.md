@@ -1,5 +1,9 @@
 # DLthon_RKD
 repository for the DLthon project.
+## Team members
+김소연 https://github.com/elliekim9881<br>
+전재영 https://github.com/JYJJEON<br>
+심지안 https://github.com/jiansim03
 
 ## Objective
 > 성능 향상 과정 과 test&train 결과에서 각 모델의 특징을 찾아보고,<br> 향후 해당 모델들이 application과정에서 얻을 수 있는 선호척도에 대해 알아보자

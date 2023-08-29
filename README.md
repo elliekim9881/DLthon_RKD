@@ -7,4 +7,3 @@ Objective : 성능향상 과정 과 predict 결과에서 각 모델의 특징을
 2. Model Selection
 3. Perform Error Analysis
 4. Wrap-up
-5.    

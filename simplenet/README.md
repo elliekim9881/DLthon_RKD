@@ -1,5 +1,6 @@
 # DLthon_RKD
 ## SimpleNet
+DLthon_Simplenet은 ResNet과 같은 조건의 모델
 
 ### train을 validation, train으로 분리
 1. DLthon_aug_rev1

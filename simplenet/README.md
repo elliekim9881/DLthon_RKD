@@ -1,5 +1,6 @@
 # DLthon_RKD
-SimpleNet
+## SimpleNet
+
 (train을 validation, train으로 분리)
 1. DLthon_aug_rev1
 2. DLthon_aug_rev2
